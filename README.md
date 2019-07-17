@@ -2,7 +2,7 @@
 
 #### How to use:
 * Clone the repository
-* Open Orbits/index.html in your browser
+* Open index.html in your browser
 
 
 #### What it does:
